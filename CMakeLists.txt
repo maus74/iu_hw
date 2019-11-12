@@ -25,8 +25,13 @@ string(APPEND CMAKE_CXX_FLAGS " -pedantic -Werror -Wall -Wextra")
 string(APPEND CMAKE_CXX_FLAGS " -Wno-unused-command-line-argument")
 string(APPEND CMAKE_CXX_FLAGS " -Wshadow -Wnon-virtual-dtor")
 
+hunter_add_package(Boost COMPONENTS filesystem regex)
+find_package(Boost CONFIG REQUIRED filesystem regex)
+
 hunter_add_package(GTest)
 find_package(GTest CONFIG REQUIRED)
+
+find_package(Threads REQUIRED)
 
 # TODO: change template word to project name and delete this comment
 add_library(hw1 STATIC
