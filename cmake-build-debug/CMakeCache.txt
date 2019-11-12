@@ -23,6 +23,9 @@ CMAKE_BUILD_TYPE:UNINITIALIZED=Debug
 //Default cache server
 HUNTER_CACHE_SERVERS:STRING=https://github.com/bmstu-iu8-cpp-sem-3/hunter-cache
 
+//Enable Hunter package manager support
+HUNTER_ENABLED:BOOL=ON
+
 
 ########################
 # INTERNAL cache entries
