@@ -1,0 +1,2 @@
+/usr/bin/ar qc libiu_hwd.a  CMakeFiles/iu_hw.dir/sources/source.cpp.o
+/usr/bin/ranlib libiu_hwd.a

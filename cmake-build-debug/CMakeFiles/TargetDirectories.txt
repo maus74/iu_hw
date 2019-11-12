@@ -1,0 +1,5 @@
+/home/maus/CLionProjects/lab-01-parser/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/maus/CLionProjects/lab-01-parser/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/maus/CLionProjects/lab-01-parser/cmake-build-debug/CMakeFiles/test.dir
+/home/maus/CLionProjects/lab-01-parser/cmake-build-debug/CMakeFiles/iu_hw.dir
+/home/maus/CLionProjects/lab-01-parser/cmake-build-debug/CMakeFiles/tests.dir
