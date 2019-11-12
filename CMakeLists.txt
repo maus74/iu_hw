@@ -5,6 +5,7 @@ set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
 option(BUILD_COVERAGE "Build coverage" OFF)
 
+option(HUNTER_ENABLED "Enable Hunter package manager support" ON)
 set(
   HUNTER_CACHE_SERVERS
   "https://github.com/bmstu-iu8-cpp-sem-3/hunter-cache"
