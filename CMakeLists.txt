@@ -20,7 +20,6 @@ HunterGate(
 
 
 
-
 # TODO: rename project and delete this comment
 project(hw1)
 string(APPEND CMAKE_CXX_FLAGS " -pedantic -Werror -Wall -Wextra")
