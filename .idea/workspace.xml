@@ -55,8 +55,13 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="285">
               <caret line="19" selection-start-line="19" selection-end-line="19" />
+=======
+            <state relative-caret-position="255">
+              <caret line="17" column="55" selection-start-line="17" selection-start-column="55" selection-end-line="17" selection-end-column="55" />
+>>>>>>> ce660b72e76b8ccb206cdf7a0f0eae55ac43ffae
             </state>
           </provider>
         </entry>
@@ -223,7 +228,11 @@
       <updated>1573214026693</updated>
       <workItem from="1573214029707" duration="1599000" />
       <workItem from="1573509552883" duration="2087000" />
+<<<<<<< HEAD
       <workItem from="1573547046779" duration="4586000" />
+=======
+      <workItem from="1573547046779" duration="3990000" />
+>>>>>>> ce660b72e76b8ccb206cdf7a0f0eae55ac43ffae
     </task>
     <task id="LOCAL-00001" summary="init source">
       <created>1573509769461</created>
@@ -236,7 +245,11 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="8272000" />
+=======
+    <option name="totallyTimeSpent" value="7676000" />
+>>>>>>> ce660b72e76b8ccb206cdf7a0f0eae55ac43ffae
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -249,8 +262,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-4" y="0" width="1928" height="1048" extended-state="6" />
+<<<<<<< HEAD
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3568376" />
+=======
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3568376" />
+>>>>>>> ce660b72e76b8ccb206cdf7a0f0eae55ac43ffae
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -262,7 +281,11 @@
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32930845" />
       <window_info anchor="bottom" id="Database Changes" order="7" />
       <window_info anchor="bottom" id="Messages" order="8" />
+<<<<<<< HEAD
       <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.34687155" />
+=======
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.34687155" />
+>>>>>>> ce660b72e76b8ccb206cdf7a0f0eae55ac43ffae
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="11" weight="0.32930845" />
       <window_info anchor="bottom" id="CMake" order="12" weight="0.32821077" />
@@ -299,6 +322,7 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -313,6 +337,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/scripts/tests.sh">
       <provider selected="true" editor-type-id="text-editor">
+=======
+    <entry file="file://$PROJECT_DIR$/tests/test.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cmake.check_cache">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AUTHORS">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/tests.sh">
+      <provider selected="true" editor-type-id="text-editor">
+>>>>>>> ce660b72e76b8ccb206cdf7a0f0eae55ac43ffae
         <state relative-caret-position="30">
           <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
         </state>
@@ -332,6 +379,7 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/tools/gate/cmake/HunterGate.cmake">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -343,6 +391,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="19" selection-start-line="19" selection-end-line="19" />
+=======
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="55" selection-start-line="17" selection-start-column="55" selection-end-line="17" selection-end-column="55" />
+>>>>>>> ce660b72e76b8ccb206cdf7a0f0eae55ac43ffae
         </state>
       </provider>
     </entry>
