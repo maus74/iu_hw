@@ -14,9 +14,10 @@ set(
 include("tools/gate/cmake/HunterGate.cmake")
 
 HunterGate(
-  URL "https://github.com/cpp-pm/hunter/archive/v0.23.218.tar.gz"
-  SHA1 "9a3594a61227967fb92159339ba326701b287b19"
+        URL "https://github.com/ruslo/hunter/archive/v0.23.214.tar.gz"
+        SHA1 "e14bc153a7f16d6a5eeec845fb0283c8fad8c358"
 )
+
 
 
 # TODO: rename project and delete this comment
@@ -27,7 +28,6 @@ string(APPEND CMAKE_CXX_FLAGS " -Wshadow -Wnon-virtual-dtor")
 
 hunter_add_package(Boost COMPONENTS filesystem regex)
 find_package(Boost CONFIG REQUIRED filesystem regex)
-
 hunter_add_package(GTest)
 find_package(GTest CONFIG REQUIRED)
 
